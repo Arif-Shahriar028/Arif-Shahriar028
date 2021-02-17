@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  </p>
  
  <hr>
-
+<!--
  <p align="center">
   <img src = "https://gpvc.arturio.dev/arif-shahriar028">
  </p>
+-->
 

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on <kbd>Innovation</kbd>
 - 🤔 I’m looking for help with <kbd>JS</kbd>
 - 💬 Ask me about <kbd>Anything</kbd>
-- 📫 How to reach me: <a href= "https://www.facebook.com/arifshahriar.profile" target="_blank">Facebook</a>
+- 📫 How to reach me: <a href= "https://www.facebook.com/arifshahriar.profile" target="_blank" rel="noopener noreferrer">Facebook</a>
 - 😄 Pronouns: <kbd>He/Him</kbd>
 - ⚡ Fun fact: you are visiting my profile
 

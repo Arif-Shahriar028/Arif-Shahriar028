@@ -1,6 +1,5 @@
-
-## Hey this is Arif Shahriar 
-### Here is What I'm Working On! 👋
+ 
+### Hey! This is Arif Shahriar 👋
 
 <!--
 **Arif-Shahriar028/Arif-Shahriar028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on <kbd>Android</kbd>
-- 🌱 I’m currently learning <kbd>Flask</kbd>
+- 📱 I’m currently working on <kbd>Android</kbd>
+- 🖥 I’m currently learning <kbd>Flask</kbd>
 - 👯 I’m looking to collaborate on <kbd>Innovation</kbd>
 - 🤔 I’m looking for help with <kbd>JS</kbd>
 - 💬 Ask me about <kbd>Anything</kbd>

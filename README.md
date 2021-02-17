@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <hr>
 
 <p align = "center">
-<img height = "220" src= "https://github-readme-stats.vercel.app/api?username=arif-shahriar028&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img height = "220" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arif-shahriar028&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&langs_count=5">
+<img height = "220" src= "https://github-readme-stats.vercel.app/api?username=Arif-Shahriar028&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img height = "220" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-Shahriar028&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&langs_count=5">
  </p>
  
  <hr>

@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 📱 I’m currently working on <kbd>Android</kbd>
+- 📱 I’m currently working on <kbd>Android</kbd> <kbd>JAVA</kbd>
 - 🖥 I’m currently learning <kbd>Flask</kbd> and <kbd>Django</kbd>
 - 👯 I’m looking to collaborate on <kbd>Innovation</kbd>
 - 🤔 I’m looking for help with <kbd>JS</kbd>

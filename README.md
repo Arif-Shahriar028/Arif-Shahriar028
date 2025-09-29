@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-shahriar028" alt="arif-shahriar028" /></a> </p>
 
-- 🔭 I’m currently working on **Self-Sovereign Identity**
+- 🔭 I’m currently working on **React Native and Self-Sovereign Identity**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on [Credo-ts Agent](https://github.com/Arif-Shahriar028/Credo-ts-Agent)
 
 - 🤝 I’m looking for help with **Self-Sovereign Identity solutions**
 
-- 💬 Ask me about **Self-Sovereign Identity, Blockchain**
+- 💬 Ask me about **Self-Sovereign Identity, Blockchain and React Native**
 
 - 📫 How to reach me **arifshahriar028@gmail.com**
 
